@@ -14,7 +14,11 @@
 
 1. forkA属于同步到官方英文档的原始文件，不做任何Merge
 
-2. 汉化工作流程：
+2. forkA只会更新_en文档
+
+3. forkA每次更新会增加相应updatelog
+
+3. 汉化工作流程：
 
 A ---> B ，所有成员forkB，merge到B
 
