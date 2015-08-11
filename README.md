@@ -1,6 +1,6 @@
 ###NOTICE (Updated 0811-2015)
 
-##FORK B
+##FORK A
 
 ##TOS辣条汉化组
 
